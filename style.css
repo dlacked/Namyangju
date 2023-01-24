@@ -1,0 +1,39 @@
+#map{
+    padding-top: 2%;
+    width: 100%;
+}
+
+p{
+    padding-top:5%;
+    width: 100%;
+    font-size: 1em;
+}
+
+#logo{
+    font-size: 2em;
+    width: 100%;
+    padding-top: 10%;
+}
+
+.image{
+    max-width: 100%;
+    height: auto;
+}
+.map_image{
+    max-width: 35%;
+    height: auto;
+}
+
+.fullscreen{
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+@font-face {
+    font-family: "손글씨";
+    src: url("font/a꽃피는봄.ttf");
+}
